@@ -34,3 +34,5 @@ broadcast = ".".join(list)
 print "host name: ", hostname
 print "host ip address: ", hostip
 print "broadcast address: ", broadcast
+
+print "beijing tianjingshijie jingbiaosai"
